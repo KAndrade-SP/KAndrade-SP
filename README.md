@@ -1,6 +1,6 @@
 ## Olá, eu sou Kaique Andrade
 
-- 🌱 Atualmente estudando desenvolvimento Front-end e Javascript
+- 🌱 Atualmente estudando desenvolvimento web, Asp .NET Core, Entity Framework e Typescript.
 - 💞️ Fique à vontade para checar projetos pessoais e os que realizei durante o período de curso técnico e superior para aprendizado e treinamento
 
 <div align="center">
