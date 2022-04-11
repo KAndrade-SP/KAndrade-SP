@@ -1,7 +1,7 @@
 ## Olá, eu sou Kaique Andrade
 
 - 🌱 Atualmente estudando desenvolvimento web, Asp .NET Core, Entity Framework Core e Typescript.
-- 💞️ Fique à vontade para checar projetos pessoais e os que realizei durante o período de curso técnico e superior para aprendizado e treinamento
+- 💞️ Fique à vontade para checar projetos pessoais e os que realizei durante o período de curso técnico e superior
 
 <div align="center">
   <a href="https://github.com/KAndrade-SP">
