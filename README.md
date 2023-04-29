@@ -1,6 +1,6 @@
 ## Olá, eu sou Kaique Andrade
 
-- 🌱 Atualmente estudando desenvolvimento web como para desenvolvimento do projeto de Trabalho de Conclusão de Graduação.
+- 🌱 Atualmente estudando desenvolvimento web para elaboração do Trabalho de Conclusão de Graduação.
 - 💞️ Fique à vontade para checar projetos pessoais e os que realizei durante o período de curso técnico e superior.
 
 <div align="center">
