@@ -1,7 +1,7 @@
 ## Olá, eu sou Kaique Andrade
 
-- 🌱 Atualmente estudando desenvolvimento web.
-- 💞️ Fique à vontade para checar projetos pessoais e os que realizei durante o período de curso técnico e superior.
+- 🌱 Atualmente desenvolvendo um projeto fullstack (Musilist).
+- 💞️ Fique à vontade para checar meus repositórios com os projetos que fiz durante períodos de cursos técnicos, superior, estágios e trabalhos.
 
 <div align="center">
   <a href="https://github.com/KAndrade-SP">
@@ -44,15 +44,6 @@
   </a>
   <a href="https://angular.io/docs">
       <code><img alt="KV-Angular" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /></code>
-  </a>
-  <a href="https://docs.python.org/">
-      <code><img alt="KV-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /></code>
-  </a>
-  <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/">
-      <code><img alt="KV-CSharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" /></code>
-  </a>
-  <a href="https://docs.microsoft.com/pt-br/aspnet/core/">
-      <code><img alt="KV-DotNetCore" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" /></code>
   </a>
 </div>
   
