@@ -1,6 +1,6 @@
 ## Olá, eu sou Kaique Andrade
 
-- 🌱 Atualmente desenvolvendo um projeto fullstack (Musilist).
+- 🌱 Atualmente desenvolvendo um projeto fullstack (Musilist): https://github.com/KAndrade-SP/Musilist
 - 💞️ Fique à vontade para checar meus repositórios com os projetos que fiz durante períodos de cursos técnicos, superior, estágios e trabalhos.
 
 <div align="center">
