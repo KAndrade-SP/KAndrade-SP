@@ -1,6 +1,7 @@
 ## Olá, eu sou Kaique Andrade
 
-- 🌱 Atualmente estudando conceitos de web design responsivo, typescript e desenvolvendo um projeto fullstack com Firebase, Nodejs e ReactTS (Musilist): https://github.com/KAndrade-SP/Musilist
+- 🌱 Atualmente estudando web design responsivo e desenvolvendo um projeto fullstack com Firebase, Nodejs e ReactTS: https://github.com/KAndrade-SP/Musilist
+
 - 💞️ Fique à vontade para checar meus repositórios com os projetos que fiz durante períodos de cursos técnicos, superior, estágios e trabalhos.
 
 <div align="center">
